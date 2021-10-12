@@ -127,8 +127,7 @@ h3 {
 
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
-	.btn-custom {
-		margin: 10px 15px;
+	h1 {
 		font-size: 1em;
 	}
 }
@@ -137,10 +136,6 @@ h3 {
 @media (min-width: 576px) and (max-width: 767.98px) {
 	h1 {
 		font-size: 3em;
-	}
-	.btn-custom {
-		margin: 10px 15px;
-		font-size: 1em;
 	}
 }
 
