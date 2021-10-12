@@ -1,2 +1,2 @@
 # primeijoprojeto
-Primeiro projeto simples realizado em curso.
+Primeiro projeto simples de um blog usando html e css.
